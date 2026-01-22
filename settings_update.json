@@ -1,5 +1,5 @@
 {
-  "isLogin": true,
-  "new_update": true,
+  "isLogin": false,
+  "new_update": false,
   "update_link": "https://shadowbot.free.bg/"
 }
